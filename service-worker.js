@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/squad-5-aceleradev-fs-florianopolis/precache-manifest.570949c81c1d9146e01017b6aa1bd461.js"
+  "/squad-5-aceleradev-fs-florianopolis/precache-manifest.451b1c0ce2e50f146f165a14ede9ef63.js"
 );
 
 self.addEventListener('message', (event) => {
