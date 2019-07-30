@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c7492db93a4d5a27017c5b595176bde4",
+    "revision": "eaef21fbedb2c1cb4d727f1f7312c4bb",
     "url": "/squad-5-aceleradev-fs-florianopolis/index.html"
   },
   {
-    "revision": "97d686fda16b0edffdd3",
+    "revision": "afb27eadd22d0ce020ef",
     "url": "/squad-5-aceleradev-fs-florianopolis/static/css/main.157e89ec.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/squad-5-aceleradev-fs-florianopolis/static/js/2.668a4497.chunk.js"
   },
   {
-    "revision": "97d686fda16b0edffdd3",
-    "url": "/squad-5-aceleradev-fs-florianopolis/static/js/main.8b02212a.chunk.js"
+    "revision": "afb27eadd22d0ce020ef",
+    "url": "/squad-5-aceleradev-fs-florianopolis/static/js/main.12b9508b.chunk.js"
   },
   {
     "revision": "9e8f546cb7d7c679cc7a",
